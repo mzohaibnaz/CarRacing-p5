@@ -1,0 +1,16 @@
+body {
+    margin:0;
+    padding:0;
+    overflow: hidden;
+}
+
+#canvas-container{
+    text-align: center;
+    background-color: #e3e3e3;
+    padding: 10px;
+}
+
+#canvas-container > canvas{
+    border-left: 35px solid #66aa5b;
+    border-right: 35px solid #66aa5b;
+}
